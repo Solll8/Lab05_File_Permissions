@@ -17,9 +17,4 @@ Configure NTFS and share permissions to control access to departmental folders.
 - Verified access for correct users
 - Confirmed access denied for unauthorized users
 
-## Screenshots
-- [Folder structure](screenshots/L05-01_Folders.png)
-- [NTFS permissions](screenshots/L05-02_NTFS.png)
-- [Client access allowed](screenshots/L05-03_AccessAllowed.png)
-- [Client access denied](screenshots/L05-04_AccessDenied.png)
-- [View all screenshots](screenshots/)
+
